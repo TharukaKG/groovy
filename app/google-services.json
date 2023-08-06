@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "44345799365",
+    "project_id": "groovy-90608",
+    "storage_bucket": "groovy-90608.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:44345799365:android:691bae807db84eb86036ac",
+        "android_client_info": {
+          "package_name": "petros.efthymiou.groovy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "44345799365-77k81n3mfnclbni1lbdsrr27905mdk9v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDiKcP6Dmoyu9Jy_qyNzZDneyL0rNKqQWw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "44345799365-77k81n3mfnclbni1lbdsrr27905mdk9v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
