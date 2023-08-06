@@ -21,6 +21,25 @@ android {
         testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
     }
 
+    flavorDimensions "default"
+    productFlavors {
+        dev {
+            dimension "default"
+            applicationId "petros.efthymiou.groovy"
+            versionCode 1
+            versionName "1.0"
+            // Other configuration specific to flavor1
+        }
+        qa {
+            dimension "default"
+            applicationId "petros.efthymiou.groovy"
+            versionCode 2
+            versionName "2.0"
+            // Other configuration specific to flavor2
+        }
+        // Add more flavors as needed
+    }
+
     buildTypes {
         release {
             minifyEnabled false
